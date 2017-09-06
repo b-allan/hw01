@@ -5,7 +5,6 @@
  * @file Demo.cpp
  * @authors Jim Daehn <jdaehn@missouristate.edu>
  *          Your Name <yname@missouristate.edu>
- *          Partner Name <pname@missouristate.edu>
  * @brief   Entry point for demo application.
  */
 
