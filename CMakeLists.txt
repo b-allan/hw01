@@ -44,9 +44,9 @@ set(CPPUNIT_LIBRARY
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SRC_MAIN_FILES src/main/Main.cpp)
-set(SRC_DEMO_FILES src/main/Demo.cpp)
-set(SRC_TEST_FILES src/test/UnitTestRunner.cpp)
+set(SRC_MAIN_FILES src/main/cpp/Main.cpp)
+set(SRC_DEMO_FILES src/main/cpp/Demo.cpp)
+set(SRC_TEST_FILES src/test/cpp/UnitTestRunner.cpp)
 
 add_executable(Hw01 ${SRC_MAIN_FILES})
 add_executable(Hw01Demo ${SRC_DEMO_FILES})
