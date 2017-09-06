@@ -1,2 +1,3 @@
-# msu-csc232-hw01
-Introduction to C++ Classes
+# Homework \#1
+
+Please see the [README](docs/README.md) for details surrounding this assignment.
